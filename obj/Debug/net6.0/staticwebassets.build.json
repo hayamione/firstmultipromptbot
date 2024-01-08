@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "yrY8bz4pWeNDkJMoII6zNkhMZsZxF5g49rnnF9atAyM=",
+  "Source": "MyMultiTurnBot",
+  "BasePath": "_content/MyMultiTurnBot",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "MyMultiTurnBot\\wwwroot",
+      "Source": "MyMultiTurnBot",
+      "ContentRoot": "C:\\Users\\Haya\\source\\repos\\MyMultiTurnBot\\wwwroot\\",
+      "BasePath": "_content/MyMultiTurnBot",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Haya\\source\\repos\\MyMultiTurnBot\\wwwroot\\default.htm",
+      "SourceId": "MyMultiTurnBot",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Haya\\source\\repos\\MyMultiTurnBot\\wwwroot\\",
+      "BasePath": "_content/MyMultiTurnBot",
+      "RelativePath": "default.htm",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\default.htm"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Haya\\source\\repos\\MyMultiTurnBot\\wwwroot\\default.htm",
+      "PackagePath": "staticwebassets\\default.htm"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.MyMultiTurnBot.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.MyMultiTurnBot.props",
+      "PackagePath": "build\\MyMultiTurnBot.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.MyMultiTurnBot.props",
+      "PackagePath": "buildMultiTargeting\\MyMultiTurnBot.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.MyMultiTurnBot.props",
+      "PackagePath": "buildTransitive\\MyMultiTurnBot.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
